@@ -1,7 +1,7 @@
 /** Basic Page CSS **/
 body {
 	font-weight:200;
-	background-color: #337ab7;
+	background-color: #232323;
 }
 
 header a, footer a {
@@ -13,6 +13,6 @@ footer {
 }
 
 .bg-primary, .btn primary {
-	background-color: #377bb5 !important;
+	background-color: #232323 !important;
 	border: inherit;
 }
